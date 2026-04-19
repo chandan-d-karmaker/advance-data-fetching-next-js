@@ -1,11 +1,13 @@
+import Link from 'next/link';
 import React from 'react';
 
 const Header = () => {
 
     const Links = <>
-        <li><a>About</a></li>
-        <li><a>Post</a></li>
-        <li><a>Users </a></li>
+        <li><Link href='/'>Home</Link></li>
+        <li><Link href='/about'>About</Link></li>
+        <li><Link href='/posts'>Post</Link></li>
+        <li><Link href='/users'>Users</Link></li>
     </>
 
     return (

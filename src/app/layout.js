@@ -27,7 +27,7 @@ export default function RootLayout({ children }) {
 
         <Header></Header>
 
-        <main>
+        <main className="w-4/5 mx-auto my-20">
           {children}
         </main>
 
