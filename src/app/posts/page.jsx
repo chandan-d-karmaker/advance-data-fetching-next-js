@@ -13,6 +13,14 @@ const PostPage = async () => {
         <div className='text-center'>
             <h2>Posts are coming sooon...........</h2>
             <p>Total Posts: {posts.length}</p>
+            <div className='space-y-4 mt-10'>
+                {
+                    posts.map(post => <div key={post.id} className='p-10 bg-base-300'>
+                        <h2>{post.title}</h2>
+                        <p>{post.body}</p>
+                    </div>)
+                }
+            </div>
         </div>
     );
 };
