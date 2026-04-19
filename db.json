@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Zenith Wireless Headphones",
+      "category": "Electronics",
+      "price": 119.99,
+      "inStock": true,
+      "rating": 4.8,
+      "description": "Noise-canceling over-ear headphones with 40-hour battery life."
+    },
+    {
+      "id": "2",
+      "name": "Everest Peak Backpack",
+      "category": "Outdoor",
+      "price": 75.00,
+      "inStock": true,
+      "rating": 4.5,
+      "description": "Water-resistant 30L hiking backpack with laptop compartment."
+    },
+    {
+      "id": "3",
+      "name": "Aura Smart Watch",
+      "category": "Wearables",
+      "price": 199.50,
+      "inStock": false,
+      "rating": 4.2,
+      "description": "Fitness tracker with heart rate monitor and GPS integration."
+    },
+    {
+      "id": "4",
+      "name": "Nebula Mechanical Keyboard",
+      "category": "Accessories",
+      "price": 89.99,
+      "inStock": true,
+      "rating": 4.9,
+      "description": "RGB backlit keyboard with tactile brown switches."
+    },
+    {
+      "id": "5",
+      "name": "Terra Ceramic Planter",
+      "category": "Home Decor",
+      "price": 24.00,
+      "inStock": true,
+      "rating": 4.6,
+      "description": "Handcrafted minimalist ceramic pot for indoor plants."
+    }
+  ]
+}
