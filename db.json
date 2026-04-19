@@ -1,49 +1,96 @@
 {
-  "products": [
-    {
-      "id": "1",
-      "name": "Headphones",
-      "category": "Electronics",
-      "price": 119.99,
-      "inStock": true,
-      "rating": 4.8,
-      "description": "Noise-canceling over-ear headphones with 40-hour battery life."
-    },
-    {
-      "id": "2",
-      "name": "Everest Peak Backpack",
-      "category": "Outdoor",
-      "price": 75.00,
-      "inStock": true,
-      "rating": 4.5,
-      "description": "Water-resistant 30L hiking backpack with laptop compartment."
-    },
-    {
-      "id": "3",
-      "name": "Aura Smart Watch",
-      "category": "Wearables",
-      "price": 199.50,
-      "inStock": false,
-      "rating": 4.2,
-      "description": "Fitness tracker with heart rate monitor and GPS integration."
-    },
-    {
-      "id": "4",
-      "name": "Nebula Mechanical Keyboard",
-      "category": "Accessories",
-      "price": 89.99,
-      "inStock": true,
-      "rating": 4.9,
-      "description": "RGB backlit keyboard with tactile brown switches."
-    },
-    {
-      "id": "5",
-      "name": "Terra Ceramic Planter",
-      "category": "Home Decor",
-      "price": 24.00,
-      "inStock": true,
-      "rating": 4.6,
-      "description": "Handcrafted minimalist ceramic pot for indoor plants."
-    }
-  ]
+    "products": [
+        {
+            "id": "1",
+            "name": "Headphones",
+            "category": "Electronics",
+            "price": 119.99,
+            "inStock": true,
+            "rating": 4.8,
+            "description": "Noise-canceling over-ear headphones with 40-hour battery life."
+        },
+        {
+            "id": "2",
+            "name": "Everest Peak Backpack",
+            "category": "Outdoor",
+            "price": 75.00,
+            "inStock": true,
+            "rating": 4.5,
+            "description": "Water-resistant 30L hiking backpack with laptop compartment."
+        },
+        {
+            "id": "3",
+            "name": "Aura Smart Watch",
+            "category": "Wearables",
+            "price": 199.50,
+            "inStock": false,
+            "rating": 4.2,
+            "description": "Fitness tracker with heart rate monitor and GPS integration."
+        },
+        {
+            "id": "4",
+            "name": "Nebula Mechanical Keyboard",
+            "category": "Accessories",
+            "price": 89.99,
+            "inStock": true,
+            "rating": 4.9,
+            "description": "RGB backlit keyboard with tactile brown switches."
+        },
+        {
+            "id": "5",
+            "name": "Terra Ceramic Planter",
+            "category": "Home Decor",
+            "price": 24.00,
+            "inStock": true,
+            "rating": 4.6,
+            "description": "Handcrafted minimalist ceramic pot for indoor plants."
+        }
+    ],
+    "books": [
+        {
+            "id": "101",
+            "title": "The Shadow of the Mountain",
+            "author": "Arif Rahman",
+            "genre": "Mystery",
+            "publishedYear": 2021,
+            "rating": 4.7,
+            "description": "A gripping thriller set in the remote hills of Chittagong."
+        },
+        {
+            "id": "102",
+            "title": "Midnight in Dhaka",
+            "author": "Naila Ahmed",
+            "genre": "Contemporary Fiction",
+            "publishedYear": 2019,
+            "rating": 4.2,
+            "description": "An exploration of urban life and lost connections in a bustling metropolis."
+        },
+        {
+            "id": "103",
+            "title": "Beyond the Event Horizon",
+            "author": "James Sterling",
+            "genre": "Sci-Fi",
+            "publishedYear": 2023,
+            "rating": 4.9,
+            "description": "A deep-space odyssey exploring the limits of human consciousness."
+        },
+        {
+            "id": "104",
+            "title": "The Silent Woods",
+            "author": "Elias Thorne",
+            "genre": "Horror",
+            "publishedYear": 2018,
+            "rating": 3.8,
+            "description": "A chilling tale of a village that disappears every fifty years."
+        },
+        {
+            "id": "105",
+            "title": "The Art of Simplicity",
+            "author": "Sarah Jenkins",
+            "genre": "Self-Help",
+            "publishedYear": 2022,
+            "rating": 4.5,
+            "description": "Practical advice on decluttering your mind and your workspace."
+        }
+    ]
 }
