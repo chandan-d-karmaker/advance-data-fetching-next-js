@@ -2,7 +2,7 @@
   "products": [
     {
       "id": "1",
-      "name": "Zenith Wireless Headphones",
+      "name": "Headphones",
       "category": "Electronics",
       "price": 119.99,
       "inStock": true,

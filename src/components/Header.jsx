@@ -5,7 +5,7 @@ const Header = () => {
 
     const Links = <>
         <li><Link href='/'>Home</Link></li>
-        <li><Link href='/about'>About</Link></li>
+        <li><Link href='/products'>Products</Link></li>
         <li><Link href='/posts'>Post</Link></li>
         <li><Link href='/users'>Users</Link></li>
     </>
